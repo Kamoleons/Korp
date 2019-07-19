@@ -31,6 +31,10 @@
 - [JSFiddle](https://jsfiddle.net/)
 - [Codepen](https://codepen.io)
 
+## Controls
+
+- [Gamepad API](https://samiare.github.io/Controller.js/)
+
 # Documentation
 
 ## Social Network
